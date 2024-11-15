@@ -41,16 +41,18 @@ I am a passionate **Backend Developer** with over **3 years of experience** spec
 
 ### **FairSeed Technology Foundation**
 - 🌐 Developed an education-focused online crowdfunding platform, integrating PhonePe for payments and email notifications.
-- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white), Openpyxl.
+- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white), ![Openpyxl](https://img.shields.io/badge/Openpyxl-0061C1?style=flat&logo=python&logoColor=white)
+.
 
 ### **VectoSense**
 - 📈 Designed a dynamic web platform connecting service providers and customers. Implemented role-based permissions and automated email notifications.
-- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white), PhonePe.
+- **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white), ![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat&logo=phonepe&logoColor=white).  
 
 ### **Bridal Management System (BMS)**
 - 👰 Developed a web-based system for managing bridal salon operations, including customers, appointments, and data.
 - 🔌 Designed RESTful APIs and database structures to meet specific client requirements.
-- **Tech Stack**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white), PostgreSQL, PhonePe.
+- **Tech Stack**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white), ![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat&logo=phonepe&logoColor=white).  
+
 
 ---
 
